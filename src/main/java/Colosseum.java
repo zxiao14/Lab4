@@ -8,7 +8,7 @@ import java.util.Scanner;
  * battle, and see who will be the winner! Check out the example runs folder for a few example runs
  * on how the final game should look.
  *
- * @see <a href="https://cs125.cs.illinois.edu/lab/7/">Lab 7 Description</a>
+ * @see <a href="https://cs125.cs.illinois.edu/lab/4/">Lab 4 Description</a>
  */
 public class Colosseum {
     /**

@@ -33,7 +33,7 @@
 <!--
   Configuration customized for CS125.
   * Semi-permanent customizations marked with CS125.
-  * Per-project customizations (if any) marked with Lab7.
+  * Per-project customizations (if any) marked with Lab4.
  -->
 
 <module name="Checker">
@@ -173,7 +173,7 @@
     <!-- CS125: Our utility classes must have public main methods. -->
     <!-- <module name="HideUtilityClassConstructor"/> -->
     <module name="InterfaceIsType"/>
-    <!-- Lab7: Starting with objects so don't want getters or setters yet. -->
+    <!-- Lab4: Starting with objects so don't want getters or setters yet. -->
     <!-- <module name="VisibilityModifier"/> -->
 
      <!-- Miscellaneous other checks.                   -->

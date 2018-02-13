@@ -6,7 +6,7 @@ import java.util.Random;
  * a random number generator and an int number of sides. We can roll the die to get a random value
  * in the game.
  *
- * @see <a href="https://cs125.cs.illinois.edu/lab/7/">Lab 7 Description</a>
+ * @see <a href="https://cs125.cs.illinois.edu/lab/4/">Lab 4 Description</a>
  * @see <a href="https://english.stackexchange.com/questions/167104/singular-of-dice"> Dice is
  *      Singular of Dice</a>
  */
