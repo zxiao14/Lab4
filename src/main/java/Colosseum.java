@@ -5,8 +5,7 @@ import java.util.Scanner;
  * <p>
  * The Pokemon battles that you might have grown up to know and love are now console based! The
  * Colosseum class is where all the battles will go down. We will build our Pokemon, let them
- * battle, and see who will be the winner! Check out the example runs folder for a few example runs
- * on how the final game should look.
+ * battle, and see who will be the winner!
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/4/">Lab 4 Description</a>
  */
